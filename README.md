@@ -1,4 +1,4 @@
-# PHCoin is a mobile application proposal to help people earn money at their own risk through investing in virtual currency trading. 
+# PHCoin - A mobile application proposal to help people earn money at their own risk through investing in virtual currency trading. 
 
 To run the application using a simulator. Depending on what platform like for example if you want to try to run this project in an iOS simulator, you should have a macbook that that supports XCode. XCode is the main application to develop iOS applications. With the use of XCode you will be able to download iOS Simulators and update their iOS Version/s. 
 
